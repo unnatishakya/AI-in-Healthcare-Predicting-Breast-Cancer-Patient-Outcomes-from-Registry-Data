@@ -8,7 +8,7 @@ A small, validated predictive-analytics application that estimates the probabili
 
 | File | Purpose |
 |---|---|
-| `ITAI2372_M03_Shakya_Unnati_revised.ipynb` | Full project: research, data checks, EDA, leakage analysis, model comparison, threshold selection, test evaluation, fairness audit, application, limitations, references |
+| `ITAI2372_M03_Shakya_Unnati_Final.ipynb` | Full project: research, data checks, EDA, leakage analysis, model comparison, threshold selection, test evaluation, fairness audit, application, limitations, references |
 | `app.py` | Streamlit web app that loads the trained model and scores a patient |
 | `models/` | Created by the notebook: `risk_model.joblib` (trained pipeline) and `model_meta.json` (allowed inputs, threshold, test metrics) |
 | `requirements.txt` | Python dependencies |
