@@ -1,4 +1,4 @@
-## Module 3 project: AI in Healthcare, Breast Cancer Outcome Risk Model
+## AI in Healthcare - Breast Cancer Outcome Risk Model
 
 A small, validated predictive-analytics application that estimates the probability that a breast cancer patient is recorded as deceased by the end of registry follow-up, and flags higher-risk profiles using a threshold chosen on training data only.
 
