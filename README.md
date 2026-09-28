@@ -1,0 +1,2 @@
+# AI-in-Healthcare-Predicting-Breast-Cancer-Patient-Outcomes-from-Registry-Data
+A small, validated predictive-analytics application on real cancer-registry data. It takes a patient's clinical and tumor characteristics and estimates the probability that the patient is recorded as deceased by the end of the registry follow-up. It then flags higher-risk patients using a threshold chosen on training data only.
